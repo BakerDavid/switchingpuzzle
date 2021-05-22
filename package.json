@@ -1,0 +1,24 @@
+{
+  "name": "switchingpuzzle",
+  "version": "1.0.0",
+  "description": "Model Railroad Switching Puzzle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BakerDavid/switchingpuzzle.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BakerDavid/switchingpuzzle/issues"
+  },
+  "homepage": "https://github.com/BakerDavid/switchingpuzzle#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
